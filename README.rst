@@ -6,7 +6,7 @@ A notebook showcasing how to use mediapipe for hand tracking.
 MediaPipe in Python
 ########
 
-Install python packages using the pip command: 
+Install packages using the pip command: 
 
 .. code:: shell
     
