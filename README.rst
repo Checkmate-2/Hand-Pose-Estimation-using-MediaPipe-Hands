@@ -1,7 +1,7 @@
 *****
 Hand-Pose-Estimation-using-MediaPipe-Hands
 *****
-A notebook showcasing how to use mediapipe for hands tracking.
+A notebook showcasing how to use mediapipe for hand tracking.
 
 MediaPipe in Python
 ########
